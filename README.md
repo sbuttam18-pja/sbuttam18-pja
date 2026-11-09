@@ -233,6 +233,12 @@ open_to:
 
 <div align="center">
 
+<div align="center">
+
+[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=8957E5&center=true&vCenter=true&width=520&lines=I+teach+machines+to+see%2C+read+%26+reason.)](https://github.com/YOUR_USERNAME)
+
+</div>
+
 ### `> ping uttam`
 
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
