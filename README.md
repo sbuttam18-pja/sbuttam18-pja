@@ -23,22 +23,24 @@
 ## 🐍 Developer Identity
 
 ```python
-class Uttam:
-    def __init__(self):
-        self.name = "Uttam"
-        self.role = "AI/ML Engineer"
-        self.focus = [
-            "Agentic AI",
-            "Generative AI",
-            "Computer Vision",
-            "NLP",
-            "Deep Learning",
-        ]
-        self.languages = ["Python", "C++"]
-        self.open_source = True
+def introduce():
+    profile = {
+        "name": "Uttam",
+        "role": "AI/ML Engineer",
+        "interests": ["AI", "ML", "LLMs", "Agentic AI"],
+        "languages": ["Python", "C++"]
+    }
 
-    def current_mission(self):
-        return "Building intelligent systems that learn, see, read and reason 🤖"
+    return profile
+
+
+def vision():
+    return "Making machines learn, perceive and reason."
+
+
+if __name__ == "__main__":
+    print(introduce())
+    print(vision())
 ```
 
 <br>
