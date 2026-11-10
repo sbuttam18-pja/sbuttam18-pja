@@ -198,10 +198,10 @@ if __name__ == "__main__":
 
 | ID | Project | Division | What it does | Stack |
 |:--:|:--------|:--------:|:-------------|:------|
-| `EXP-001` | [**Your RAG Project**](https://github.com/YOUR_USERNAME/REPO) | 02 | Retrieval-augmented Q&A grounded in your documents | `LangChain` `FastAPI` `SQL` |
-| `EXP-002` | [**Your Agent Project**](https://github.com/YOUR_USERNAME/REPO) | 02 | Tool-calling agent with persistent memory | `Agno` `Python` `Supabase` |
-| `EXP-003` | [**Your Vision Project**](https://github.com/YOUR_USERNAME/REPO) | 03 | Image classification / detection pipeline | `PyTorch` `OpenCV` |
-| `EXP-004` | [**Your Summarizer**](https://github.com/YOUR_USERNAME/REPO) | 04 | Text summarization with a fine-tuned T5 | `Transformers` `Streamlit` |
+| `EXP-001` | [**LangChain-RAG-Implementation**](https://github.com/sbuttam18-pja/LangChain-RAG-Implementation) | 02 | Retrieval-augmented Q&A grounded in your documents | `LangChain` `FastAPI` `SQL` |
+| `EXP-002` | [**agno-multi-agent-ai**](https://github.com/sbuttam18-pja/agno-multi-agent-ai) | 02 | Tool-calling agent with persistent memory | `Agno` `Python` `Supabase` |
+| `EXP-003` | [**CNN-CIFAR10-Image-Classification**](https://github.com/sbuttam18-pja/CNN-CIFAR10-Image-Classification) | 03 | Image classification / detection pipeline | `PyTorch` `OpenCV` |
+| `EXP-004` | [**t5-text-summarizer**](https://github.com/sbuttam18-pja/t5-text-summerizer) | 04 | Text summarization with a fine-tuned T5 | `Transformers` `Streamlit` |
 
 ---
 
