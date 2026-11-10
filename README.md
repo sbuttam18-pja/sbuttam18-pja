@@ -194,8 +194,6 @@ if __name__ == "__main__":
 
 ## `// 05` &nbsp; EXPERIMENT LOG &nbsp;*(featured projects)*
 
-> Replace the placeholders below with your real repositories.
-
 | ID | Project | Division | What it does | Stack |
 |:--:|:--------|:--------:|:-------------|:------|
 | `EXP-001` | [**LangChain-RAG-Implementation**](https://github.com/sbuttam18-pja/LangChain-RAG-Implementation) | 02 | Retrieval-augmented Q&A grounded in your documents | `LangChain` `FastAPI` `SQL` |
