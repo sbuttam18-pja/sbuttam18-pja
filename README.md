@@ -242,8 +242,8 @@ open_to:
 ### `> ping uttam`
 
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
-[![Email](https://img.shields.io/badge/Email-8957e5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE](https://www.linkedin.com/in/uttam-sb-aiml/))
+[![Email](https://img.shields.io/badge/Email-8957e5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sbuttam18@gmail.com)
 
 <sub>`while alive: read(); see(); reason(); build()`</sub>
 
